@@ -1,4 +1,4 @@
-ouble calculoVazao;
+double calculoVazao;
 volatile int contador;
 float fluxoAcumulado =0;
 float metroCubico = 0;
